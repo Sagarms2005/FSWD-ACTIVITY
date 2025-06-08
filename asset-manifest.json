@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FSWD-ACTIVITY/static/css/main.4bb4dbae.css",
+    "main.js": "/FSWD-ACTIVITY/static/js/main.4f8b35f8.js",
+    "static/js/453.acca0757.chunk.js": "/FSWD-ACTIVITY/static/js/453.acca0757.chunk.js",
+    "static/media/sagar.png": "/FSWD-ACTIVITY/static/media/sagar.74c3e1ae6d8070edd417.png",
+    "index.html": "/FSWD-ACTIVITY/index.html",
+    "main.4bb4dbae.css.map": "/FSWD-ACTIVITY/static/css/main.4bb4dbae.css.map",
+    "main.4f8b35f8.js.map": "/FSWD-ACTIVITY/static/js/main.4f8b35f8.js.map",
+    "453.acca0757.chunk.js.map": "/FSWD-ACTIVITY/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bb4dbae.css",
+    "static/js/main.4f8b35f8.js"
+  ]
+}
